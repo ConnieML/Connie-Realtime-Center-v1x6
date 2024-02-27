@@ -5,20 +5,20 @@ const { github: lightCodeTheme, dracula: darkCodeTheme } = require("prism-react-
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Flex Project Template",
-  tagline: "Twilio Professional Services",
+  title: "Connie Project Template",
+  tagline: "Connie Professional Services",
   favicon: "img/logos/flex.png",
 
   // Set the production url of your site here
-  url: "https://twilio-professional-services.github.io",
+  url: "https://connieml.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/flex-project-template/",
+  baseUrl: "/Connie-Realtime-Center-v1x6/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "twilio-professional-services", // Usually your GitHub org/user name.
-  projectName: "flex-project-template", // Usually your repo name.
+  organizationName: "connieML", // Usually your GitHub org/user name.
+  projectName: "Connie-Realtime-Center-v1x6", // Usually your repo name.
   trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
